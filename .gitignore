@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Reports shared separately
+/DECISIONES.html
+/CONCLUSIONES.html

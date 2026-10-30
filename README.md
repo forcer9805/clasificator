@@ -10,8 +10,8 @@ Clasificación de quejas del CFPB para predecir `Product` a partir de
 - [Modelado/Ponderacion_clases.ipynb](Modelado/Ponderacion_clases.ipynb): DEC-07, comparación con ponderación por clase.
 - [Modelado/Equilibrio_alternativas.ipynb](Modelado/Equilibrio_alternativas.ipynb): pesos intermedios y reducción de Credit reporting.
 - [Modelado/Comparacion_modelos.ipynb](Modelado/Comparacion_modelos.ipynb): modelos clásicos sobre el corte completo y piloto de MiniLM y DistilBERT, con matrices de confusión y errores frecuentes.
-- [DECISIONES.html](DECISIONES.html): acuerdos, resultados y propuestas pendientes.
-- [CONCLUSIONES.html](CONCLUSIONES.html): resumen final, modelo recomendado y próximos pasos.
+
+Los documentos de decisiones y conclusiones se entregan por separado.
 
 ## Ejecutar el EDA
 
